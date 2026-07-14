@@ -14,8 +14,14 @@ node grepTee.js (word) (inputFile) (outputFile)
 ## Notes
 
 - If any argument is missing, it prints a usage message.
-- If the input file does not exist, it prints a "file not found" error.
+- If the input file does not exist, it prints "file not found" error.
   
 ## Requirements
 - Node.js
 
+
+# Section 2
+
+I mostly asked AI to help me with creating the sample files to test my grepTee program and it helped me along with the formatting on github readme
+
+I had to think independly on how to create the actual function, i was also debating on doing a different function at the start like an organized ls + wc for each file in a folder
